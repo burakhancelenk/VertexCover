@@ -1,5 +1,6 @@
-# Study Vertex Cover Problem
+# Study on Vertex Cover Problem
 A Study on vertex cover problem by comparing algorithms in terms of time and quality of results.
+\
 \
 **IDE:** Visual Studio\
 **Language:** C#
